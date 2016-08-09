@@ -1,0 +1,14 @@
+layout_spectrum: 0.3990961345843971
+typography_spectrum: 0.8499400618020445
+color:
+  brandStrength: 0.3442566473968327
+  lightness: 0.1251661165151745
+  saturation: 0.5958751162979752
+  rhythmicContrast: 0.5880444780923426
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: extended breakfast
